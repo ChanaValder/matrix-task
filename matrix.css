@@ -1,0 +1,20 @@
+
+body{background-color:rgb(59, 54, 54)
+    ;
+    
+    }
+    table{  width: 400px;
+        height: 400px;
+        margin-top: 34px;
+      
+    }
+    td{
+        border: solid 7px;
+        border-color: rgb(221, 144, 27)
+    }
+    h1{
+       color: rgb(221, 144, 27)
+    }
+    input{
+        color: rgb(221, 144, 27)
+    }
